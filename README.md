@@ -2,7 +2,7 @@
 
 Propuesta de arquitectura de solución para la plataforma de banca por internet (web y app móvil) de una entidad financiera en Ecuador, desplegada sobre Microsoft Azure.
 
-**Autor:** Henry Suntaxi · **Versión:** 17.1 · **Fecha:** octubre de 2026
+**Autor:** Henry Suntaxi · **Fecha:** octubre de 2026
 
 ## Entregables
 
